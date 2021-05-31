@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPalindrome",
+            "request": "launch",
+            "mainClass": "CheckPalindrome",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClinicalTest",
+            "request": "launch",
+            "mainClass": "ClinicalTest",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Collector",
+            "request": "launch",
+            "mainClass": "Collector",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver",
+            "request": "launch",
+            "mainClass": "Driver",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driveway",
+            "request": "launch",
+            "mainClass": "Driveway",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Marks",
+            "request": "launch",
+            "mainClass": "Marks",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch PizzaMenu",
+            "request": "launch",
+            "mainClass": "PizzaMenu",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Robot",
+            "request": "launch",
+            "mainClass": "Robot",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Room",
+            "request": "launch",
+            "mainClass": "Room",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stock",
+            "request": "launch",
+            "mainClass": "Stock",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task",
+            "request": "launch",
+            "mainClass": "Task",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch TripReservation",
+            "request": "launch",
+            "mainClass": "TripReservation",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch VendingMachine",
+            "request": "launch",
+            "mainClass": "VendingMachine",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Working",
+            "request": "launch",
+            "mainClass": "Working",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch metrics",
+            "request": "launch",
+            "mainClass": "metrics",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch rrr",
+            "request": "launch",
+            "mainClass": "rrr",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ssss",
+            "request": "launch",
+            "mainClass": "ssss",
+            "projectName": "Chegg_97da5ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ticho",
+            "request": "launch",
+            "mainClass": "ticho",
+            "projectName": "Chegg_97da5ddf"
+        }
+    ]
+}

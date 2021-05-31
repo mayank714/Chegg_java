@@ -1,0 +1,770 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Clinic",
+            "request": "launch",
+            "mainClass": "Chegg.Clinic",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClinicalTest",
+            "request": "launch",
+            "mainClass": "Chegg.ClinicalTest",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task",
+            "request": "launch",
+            "mainClass": "Chegg.Task",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Game",
+            "request": "launch",
+            "mainClass": "Chegg.Game",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Working",
+            "request": "launch",
+            "mainClass": "Chegg.Working",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch rrr",
+            "request": "launch",
+            "mainClass": "Chegg.rrr",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Marks",
+            "request": "launch",
+            "mainClass": "Chegg.Marks",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Chegg.Student",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driveway",
+            "request": "launch",
+            "mainClass": "Chegg.Driveway",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver",
+            "request": "launch",
+            "mainClass": "Chegg.Driver",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch metrics",
+            "request": "launch",
+            "mainClass": "Chegg.metrics",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Chegg.Main",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Time",
+            "request": "launch",
+            "mainClass": "Chegg.Time",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch VendingMachine",
+            "request": "launch",
+            "mainClass": "Chegg.VendingMachine",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorting",
+            "request": "launch",
+            "mainClass": "Chegg.Sorting",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ticho",
+            "request": "launch",
+            "mainClass": "Chegg.ticho",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stock",
+            "request": "launch",
+            "mainClass": "Chegg.Stock",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ssss",
+            "request": "launch",
+            "mainClass": "Chegg.ssss",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTree",
+            "request": "launch",
+            "mainClass": "Chegg.BinaryTree",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPalindrome",
+            "request": "launch",
+            "mainClass": "Chegg.CheckPalindrome",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Chegg.Test",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Chegg.App",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch BikeStore",
+            "request": "launch",
+            "mainClass": "Chegg.BikeStore",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParamConstructor",
+            "request": "launch",
+            "mainClass": "OOps.ParamConstructor",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Chegg.test",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch PointerEx",
+            "request": "launch",
+            "mainClass": "Chegg.PointerEx",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Room",
+            "request": "launch",
+            "mainClass": "Chegg.Room",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Robot",
+            "request": "launch",
+            "mainClass": "Chegg.Robot",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaesarCipher2",
+            "request": "launch",
+            "mainClass": "tcs_coding.CaesarCipher2",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Swap",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayofEven",
+            "request": "launch",
+            "mainClass": "tcs_coding.ArrayofEven",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringRev",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.StringRev",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "tcs_coding.Test",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Infosys",
+            "request": "launch",
+            "mainClass": "tcs_coding.Infosys",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Even",
+            "request": "launch",
+            "mainClass": "tcs_coding.Even",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "tcs_coding.Pattern",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Doctor",
+            "request": "launch",
+            "mainClass": "tcs_coding.Doctor",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vending",
+            "request": "launch",
+            "mainClass": "tcs_coding.Vending",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chain",
+            "request": "launch",
+            "mainClass": "tcs_coding.Chain",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alexa",
+            "request": "launch",
+            "mainClass": "tcs_coding.Alexa",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "tcs_coding.Area",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Monkey",
+            "request": "launch",
+            "mainClass": "tcs_coding.Monkey",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "tcs_coding.Stack",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wall",
+            "request": "launch",
+            "mainClass": "tcs_coding.Wall",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch CeasarCipher",
+            "request": "launch",
+            "mainClass": "tcs_coding.CeasarCipher",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cipher",
+            "request": "launch",
+            "mainClass": "tcs_coding.Cipher",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Caesr",
+            "request": "launch",
+            "mainClass": "tcs_coding.Caesr",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Machine",
+            "request": "launch",
+            "mainClass": "tcs_coding.Machine",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trainee",
+            "request": "launch",
+            "mainClass": "tcs_coding.Trainee",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jar",
+            "request": "launch",
+            "mainClass": "tcs_coding.Jar",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Marix",
+            "request": "launch",
+            "mainClass": "tcs_coding.Marix",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Series2",
+            "request": "launch",
+            "mainClass": "tcs_coding.Series2",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Series",
+            "request": "launch",
+            "mainClass": "Series",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vowel2",
+            "request": "launch",
+            "mainClass": "Vowel2",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vowel",
+            "request": "launch",
+            "mainClass": "Vowel",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixMultiplication",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Match",
+            "request": "launch",
+            "mainClass": "Match",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlphaNumeric",
+            "request": "launch",
+            "mainClass": "AlphaNumeric",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Test",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Space",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Space",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "OOps.Test",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_Java",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Solution_Java",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Solution",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Array",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveWhitespace",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.RemoveWhitespace",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComplexAddition",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.ComplexAddition",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevNum",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.RevNum",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch HCF",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.HCF",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Factorial",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Palindrome",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplicationTable",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.MultiplicationTable",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Frame",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Frame",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenorOdd",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.EvenorOdd",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestNum",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.LargestNum",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch VowelorConstant",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.VowelorConstant",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerPrint",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.IntegerPrint",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Main",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevString",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.RevString",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisFunctionExample3",
+            "request": "launch",
+            "mainClass": "ThisFunction.ThisFunctionExample3",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisFunctionExample2",
+            "request": "launch",
+            "mainClass": "ThisFunction.ThisFunctionExample2",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisFunctionExample1",
+            "request": "launch",
+            "mainClass": "ThisFunction.ThisFunctionExample1",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.MainClass",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Writer",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.Writer",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "Java_Coding_ques.HelloWorld",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleInheritanceInterfaceEx",
+            "request": "launch",
+            "mainClass": "OOps.MultipleInheritanceInterfaceEx",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleInheritanceInterface",
+            "request": "launch",
+            "mainClass": "OOps.Multiple_Interface.MultipleInheritanceInterface",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceDemo",
+            "request": "launch",
+            "mainClass": "OOps.InterfaceDemo",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encapsulation",
+            "request": "launch",
+            "mainClass": "OOps.Encapsulation",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractionExapmple",
+            "request": "launch",
+            "mainClass": "OOps.AbstractionExapmple",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicPolymorphism",
+            "request": "launch",
+            "mainClass": "OOps.DynamicPolymorphism",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticPolyMorphism",
+            "request": "launch",
+            "mainClass": "OOps.StaticPolyMorphism",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleConstructor",
+            "request": "launch",
+            "mainClass": "OOps.SimpleConstructor",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeirachicalInheritance",
+            "request": "launch",
+            "mainClass": "OOps.HeirachicalInheritance",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MulltiLevelInheritance",
+            "request": "launch",
+            "mainClass": "OOps.MulltiLevelInheritance",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritanceExample2",
+            "request": "launch",
+            "mainClass": "OOps.InheritanceExample2",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arithmetic",
+            "request": "launch",
+            "mainClass": "Arithmetic",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElse",
+            "request": "launch",
+            "mainClass": "IfElse",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritanceExample2",
+            "request": "launch",
+            "mainClass": "InheritanceExample2",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class3",
+            "request": "launch",
+            "mainClass": "Pack2.Class3",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParamConstructor",
+            "request": "launch",
+            "mainClass": "ParamConstructor",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleConstructor",
+            "request": "launch",
+            "mainClass": "SimpleConstructor",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringExample",
+            "request": "launch",
+            "mainClass": "StringExample",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variableexample",
+            "request": "launch",
+            "mainClass": "Variableexample",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Writer",
+            "request": "launch",
+            "mainClass": "Writer",
+            "projectName": "java prog_645db5ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class1",
+            "request": "launch",
+            "mainClass": "pack1.Class1",
+            "projectName": "java prog_645db5ce"
+        }
+    ]
+}
